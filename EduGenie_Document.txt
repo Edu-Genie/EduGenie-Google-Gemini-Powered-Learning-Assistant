@@ -1,0 +1,41 @@
+Study Notes: Introduction to Python
+
+Title: Introduction to Python Programming
+
+Introduction
+Python is a popular, high-level programming language known for being easy to read and simple to write. It is widely used by beginners and professional developers alike for web development, data science, artificial intelligence, and task automation. Because its syntax looks very similar to English, it is often considered the best language for people starting their coding journey.
+
+Main Points
+
+1. Readability
+Python emphasizes clean, simple code. Unlike many other languages that require many brackets and complex symbols, Python uses indentation (spaces) to organize blocks of code.
+
+2. Interpreted Language
+Python is an interpreted language, which means you can write a line of code and run it immediately to see what happens. This makes testing and learning much faster.
+
+3. Versatility
+You can use Python for almost anything:
+Building websites.
+Analyzing large amounts of data.
+Creating games.
+Automating boring computer tasks.
+
+4. Variables and Data Types
+In Python, you do not need to declare the type of data a variable holds. It figures it out automatically.
+Example: 
+name = "Alex" (This is a string of text)
+age = 15 (This is an integer/number)
+
+5. Basic Printing
+To display information on the screen, you use the print function.
+Example:
+print("Hello, World!")
+
+6. Comments
+Comments are notes left in the code to explain what you are doing. The computer ignores them. In Python, you create a comment by starting the line with the # symbol.
+Example:
+# This adds two numbers together
+print(5 + 5)
+
+Conclusion
+Python is a powerful tool that is perfect for beginners because it focuses on clear logic rather than complicated rules. By mastering the basics like variables, print statements, and proper indentation, you open the door to solving complex problems and creating your own software. Happy coding!
